@@ -1,10 +1,10 @@
 # Smart Business Decision Dashboard
 
 Building AI course project
-
-##Summary
+## Summary
 
 An AI-powered dashboard that helps small businesses analyze sales, expenses, and inventory, predict future demand, and make better data-driven management decisions.
+
 
 ## Background
 
